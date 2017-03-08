@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/add_item"
+        android:orderInCategory="100"
+        android:id="@+id/action_add"/>
+    <item
+        android:title="@string/delete_all"
+        android:orderInCategory="101"
+        android:id="@+id/action_deleteall"/>
+    <item
+        android:title="Current Total"
+        android:orderInCategory="102"
+        android:id="@+id/action_total"/>
+    <item
+        android:title="@string/about"
+        android:orderInCategory="103"
+        android:id="@+id/action_about"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+    <item
+        android:title="@string/help"
+        android:orderInCategory="104"
+        android:id="@+id/action_help"
+        android:icon="@android:drawable/ic_menu_help"/>
+</menu>

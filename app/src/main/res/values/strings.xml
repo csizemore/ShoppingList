@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_product">CreateProductActivity</string>
+    <string name="txt_product_added">Product added</string>
+    <string name="txt_add_cancel">Product adding cancelled</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="txt_product_edited">Product edited!</string>
+    <string name="txt_about">This app was made for AIT Mobile Course!</string>
+    <string name="txt_help">Use the touch controls to work with the application.</string>
+    <string name="action_hide">Hide</string>
+    <string name="product_name">Product Name</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="bought">Bought</string>
+    <string name="save">Save</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_all">Delete All</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="bought2">Bought</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="product">Product</string>
+    <string name="total">The current total price is $</string>
+</resources>
